@@ -1,4 +1,7 @@
+
+
 # Dependencies and site description
+
 This is a Crypto-tracker website. This will get you the real time data of the crypto currencies like bitcoin and so. We can set Lower Limits and UpperLimits for crypto currencies and a notification will pop up when the upper/lower limit hits. We can easily see the graph of the cryptocurrencies in different modes like We have 1 Day Graph, 14 Days Graph, 30 Days Graph, and max graph. 
 
 For running this website you have to download few dependencies. Please install them before running.
@@ -30,6 +33,26 @@ For running this website you have to download few dependencies. Please install t
    
    Documentation Link- https://www.npmjs.com/package/dompurify
    DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. 
+
+# Screenshots
+`About Bitcoin and History`
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 46 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/d2db13d7-7818-4561-b632-6abb72c184f0">
+
+`14 Days graph of bitcoin`
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 53 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/f99d8d86-028b-4b49-99d2-e01ec00cf58e">
+
+`Wrapped Bitcoin max graph`
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 27 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/c95420b6-d466-4d3a-b922-27ef8f60eeb5">
+
+`Search Option to search your favorite Coins`
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 11 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/232582d8-399a-480a-a8d2-c76fbe8782fa">
+
+`Front page of the website`
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 03 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/7489483a-44b1-4aff-93aa-0bc318e2b937">
+
+`Show more button to see more cryptocurrencies`
+<img width="1680" alt="Screenshot 2023-08-02 at 4 06 48 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/33cb4b09-0f07-4894-9ac7-7b06f2287abc">
+
 
 # Getting Started with Create React App
 
