@@ -1,5 +1,3 @@
-
-
 # Dependencies and site description
 
 This is a Crypto-tracker website. This will get you the real time data of the crypto currencies like bitcoin and so. We can set Lower Limits and UpperLimits for crypto currencies and a notification will pop up when the upper/lower limit hits. We can easily see the graph of the cryptocurrencies in different modes like We have 1 Day Graph, 14 Days Graph, 30 Days Graph, and max graph. 
@@ -36,23 +34,24 @@ For running this website you have to download few dependencies. Please install t
 
 # Screenshots
 `About Bitcoin and History`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 07 53 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/1b94c11d-8633-4b12-b99c-a4cd22a876e5">
-
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 46 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/5bba4991-f42e-4c10-b62b-0a85981becaa">
 
 `14 Days graph of bitcoin`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 07 53 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/f99d8d86-028b-4b49-99d2-e01ec00cf58e">
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 53 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/1b94c11d-8633-4b12-b99c-a4cd22a876e5">
 
 `Wrapped Bitcoin max graph`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 07 27 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/c95420b6-d466-4d3a-b922-27ef8f60eeb5">
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 27 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/af1072b6-6f15-483a-8528-585df7b5c2bd">
+
 
 `Search Option to search your favorite Coins`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 07 11 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/232582d8-399a-480a-a8d2-c76fbe8782fa">
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 11 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/bc94bb12-1997-40a2-9fad-8b05e0a098d8">
 
 `Front page of the website`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 07 03 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/7489483a-44b1-4aff-93aa-0bc318e2b937">
+<img width="1680" alt="Screenshot 2023-08-02 at 4 06 48 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/62c73c5b-f067-42bd-a5fe-2be9562e10b3">
+
 
 `Show more button to see more cryptocurrencies`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 06 48 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/33cb4b09-0f07-4894-9ac7-7b06f2287abc">
+<img width="1680" alt="Screenshot 2023-08-02 at 4 06 56 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/c1697379-eb4a-4173-b0a1-764c332cffeb">
 
 
 # Getting Started with Create React App
