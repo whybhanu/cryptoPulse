@@ -1,3 +1,36 @@
+# Dependencies and site description
+This is a Crypto-tracker website. This will get you the real time data of the crypto currencies like bitcoin and so. We can set Lower Limits and UpperLimits for crypto currencies and a notification will pop up when the upper/lower limit hits. We can easily see the graph of the cryptocurrencies in different modes like We have 1 Day Graph, 14 Days Graph, 30 Days Graph, and max graph. 
+
+For running this website you have to download few dependencies. Please install them before running.
+
+1. `npm i recharts`
+   
+   Documentation Link: https://www.npmjs.com/package/recharts
+
+   Recharts is a Redefined chart library built with React and D3. The main purpose of this library is to help you to write charts in React applications     without any pain. Main principles of Recharts are:
+   -Simply deploy with React components.
+   -Native SVG support, lightweight depending only on some D3 submodules.
+   -Declarative components, components of charts are purely presentational.
+
+2. `npm i react-router-dom`
+   
+   Documentation Link- https://www.npmjs.com/package/react-router-dom
+   The react-router-dom package contains bindings for using React Router in web applications. Please see the Getting Started guide for more information     on how to get started with React Router.
+
+3. `npm i chart.js`
+   
+   Documentation Link- https://www.npmjs.com/package/chart.js?activeTab=readme
+   I haven't used this dependency in my project, so it is not necessary to necessary to download this, but still download it and read the documentation     it's really good.
+
+4. `npm i axios`
+   
+   Documentation Link - https://www.npmjs.com/package/axios?activeTab=readme
+   
+5. `npm i dompurify`
+   
+   Documentation Link- https://www.npmjs.com/package/dompurify
+   DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
