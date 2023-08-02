@@ -1,0 +1,168 @@
+.mainContainer{
+    margin: 2rem;
+}
+.coinContainer .content {
+    max-width: 740px;
+    margin: 1rem auto;
+    padding: .7rem 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #26272b;
+    box-shadow: 0px 0px 12px #18191b;
+    border-radius: 8px;
+}
+.coinContainer .content:hover{
+    transform: scale(1.02);
+    transition: .34s ease-in-out;
+    cursor: pointer;
+    color: #FFEA20;
+}
+
+.rank {
+    margin: .5 0;
+}
+
+.rank-btn {
+    border: 1px solid #6900ff;
+    box-shadow: 0px 0px 8px #6900ff;
+    background-color: #6900ff;
+    border-radius: 8px;
+    padding: .2rem;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.info .coin-heading {
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+}
+.info .coin-heading .coinName{
+    margin-left: 0.3rem;
+}
+
+.info .coin-price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info p {
+    padding-right: 1rem;
+}
+
+table {
+    margin: .5rem 0;
+}
+
+td, th {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #333;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    width: 100%;
+}
+
+.stats .row {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #808080;
+    margin: .6rem 0;
+    padding-bottom: .5rem;
+}
+
+.stats .row p:first-child {
+    color: #d3d3d3;
+}
+
+.about h3 {
+    margin: 1rem 0;
+}
+
+.rowRupee{
+    display: flex;
+}
+
+@media screen and (max-width: 700px) {
+    .coinContainer .content {
+        max-width: 100%;
+        margin: .5rem;
+        padding: 0 .5rem;
+    }
+
+    .stats {
+        grid-template-columns: 1fr;
+    }
+
+    td,th {
+        padding: 3px;
+    }
+
+    .rank {
+        margin: .5rem;
+    }
+
+    .rank-btn {
+        margin: .5rem 0;
+    }
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Allow buttons to wrap on smaller screens */
+  }
+  
+  .designButton {
+    justify-content: space-around;
+    padding: 1rem;
+    font-size: 2rem;
+    margin: 1rem;
+    color: white;
+    background: gray;
+    border-radius: 2rem;
+    border: none;
+  }
+  
+  .designButton:hover {
+    transition-duration: 0.3s;
+    transform: scale(1.05);
+    color: yellow;
+  }
+  
+  @media (max-width: 768px) {
+    .buttons-container {
+      flex-direction: column; 
+    }
+  
+    .designButton {
+      width: 80%; /* Adjust the button width to fit the screen */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .designButton {
+      font-size: 1.5rem; /* Reduce font size on smaller screens */
+    }
+  }
+  
+  .price-alerts input{
+    padding: 1rem;
+    margin: 1rem 0 1rem 1rem;
+  }
+  .price-alerts{
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+  }
