@@ -36,7 +36,8 @@ For running this website you have to download few dependencies. Please install t
 
 # Screenshots
 `About Bitcoin and History`
-<img width="1680" alt="Screenshot 2023-08-02 at 4 07 46 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/d2db13d7-7818-4561-b632-6abb72c184f0">
+<img width="1680" alt="Screenshot 2023-08-02 at 4 07 53 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/1b94c11d-8633-4b12-b99c-a4cd22a876e5">
+
 
 `14 Days graph of bitcoin`
 <img width="1680" alt="Screenshot 2023-08-02 at 4 07 53 PM" src="https://github.com/whybhanu/cryptoPulse/assets/80687399/f99d8d86-028b-4b49-99d2-e01ec00cf58e">
